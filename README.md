@@ -21,10 +21,10 @@ It provides a powerful backend API that scrapes job data and serves it to a brow
 - `requirements.txt` – Contains all required Python packages.
 
 ## ▶️ Getting Started
-
+```bash
 ### 1. Clone the repository
 
-```bash
+
 git clone <your-repo-link>
 
 ### 2. Navigate to the project folder
