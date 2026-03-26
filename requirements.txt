@@ -9,7 +9,7 @@ click==8.1.8
 colorama==0.4.6
 exceptiongroup==1.2.2
 fake-useragent==2.0.3
-fastapi==0.115.8
+fastapi==0.95.2
 h11==0.14.0
 idna==3.10
 numpy==2.2.3
